@@ -2,7 +2,7 @@
 layout: post
 title:  LeetCode 20.Valid Parenthese
 categories: LeetCode
-tags: 每日一题 string Backtracking 
+tags: 每日一题 string stack 
 author: ccpocker
 ---
 
