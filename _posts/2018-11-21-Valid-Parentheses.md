@@ -9,8 +9,7 @@ author: ccpocker
 * content
 {:toc}
 
-## LeetCode 20.Valid Parenthese
-[20.Valid Parenthese](https://leetcode.com/problems/valid-parentheses/)
+## [LeetCode20.Valid Parenthese](https://leetcode.com/problems/valid-parentheses/)
 思路:使用一个栈便可解决。遍历整个字符串:如果是'('、'['、'{',就将其压栈。如果是')'、']'、'}',就从栈弹出一个元素，如果栈为空或者弹出的元素与遍历到的字符不匹配，就返回false。
 
 C++代码
