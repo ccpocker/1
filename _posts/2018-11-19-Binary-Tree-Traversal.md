@@ -32,7 +32,7 @@ author: ccpocker
 
 ### C++:
 
-```Cpp
+```cpp
 方法一:递归方法
 /**
  * Definition for a binary tree node.
@@ -64,7 +64,7 @@ public:
 
 
 方法二:非递归
-```Cpp
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -117,7 +117,7 @@ public:
 
 对于非层次遍历,使用递归方法较为简单
 
-``` C++
+``` cpp
 方法一：递归方法处理非层次遍历
 /**
  * Definition for a binary tree node.

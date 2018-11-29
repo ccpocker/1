@@ -78,7 +78,7 @@ Example 2:
 
 ***思路***：将序列pushed压栈直到栈顶为序列popped的第一个元素
 
-```CPP
+```cpp
 class Solution {
 public:
     //自己写的丑陋版本，调试了很久才出来

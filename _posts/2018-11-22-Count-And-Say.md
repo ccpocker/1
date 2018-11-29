@@ -23,7 +23,7 @@ author: ccpocker
 
 编码的思路就和上述思考是一致的。
 #### C++
-```C++
+```cpp
 class Solution {
 public:
     string countAndSay(int n) {
@@ -49,7 +49,7 @@ public:
 #### Python
 
 
-```Python
+```python
 class Solution:
     def countAndSay(self, n):
         """

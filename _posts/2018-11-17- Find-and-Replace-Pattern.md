@@ -44,7 +44,7 @@ public:
 };
 ```
 
-```Python
+```python
 # dict.setdefault(key,default=None)
 # 如果键不在字典中，就会添加键并将值设为default
 class Solution:
