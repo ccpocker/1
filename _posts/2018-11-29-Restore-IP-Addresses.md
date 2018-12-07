@@ -18,7 +18,7 @@ IP地址是一个四段数，每段的的数为0-255，例如0.0.0.0或255.255.2
 思路：
 
 
-C++
+### C++
 ```cpp
 class Solution {
 public:
@@ -54,7 +54,7 @@ public:
 };
 
 ```
-
+### python
 ```python
 class Solution:
     def restoreIpAddresses(self, s):
