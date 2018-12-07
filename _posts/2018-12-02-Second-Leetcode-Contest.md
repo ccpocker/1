@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  第一次LeetCode Contest
+title:  第二次LeetCode Contest
 categories: LeetCode Contest
 tags: Array, Stack
 author: ccpocker
@@ -32,7 +32,7 @@ class Solution:
             return "{:02}:{:02}".format(divmod(ans,60)) if ans>=0 else ""
 ```
 
-```C++
+```cpp
 //C++部分需要使用STL库里的<algorithm>中的next_permutation函数,详情可以参照：
 //http://www.cnblogs.com/eudiwffe/p/6260699.html
 
